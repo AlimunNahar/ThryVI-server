@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "course_id": "5e6be08e-3ae1-4010-8164-5dff071ab1f8",
+    "Course_title": "Computer Science MetaBootcamp: Beginner to Intermediate 2022",
+    "img": "https://i.ytimg.com/vi/SzJ46YA_RaA/maxresdefault.jpg",
+    "category": "Computer Science",
+    "course_duration": 8803,
+    "ratings": 3,
+    "price": 38,
+    "course_details": "computer science, the study of computers and computing, including their theoretical and algorithmic foundations, hardware and software, and their uses for processing information. The discipline of computer science includes the study of algorithms and data structures, computer and network design, modeling data and information processes, and artificial intelligence. Computer science draws some of its foundations from mathematics and engineering and therefore incorporates techniques from areas such as queueing theory, probability and statistics, and electronic circuit design. Computer science also makes heavy use of hypothesis testing and experimentation during the conceptualization, design, measurement, and refinement of new algorithms, information structures, and computer architectures.\n\nComputer science is considered as part of a family of five separate yet interrelated disciplines: computer engineering, computer science, information systems, information technology, and software engineering. This family has come to be known collectively as the discipline of computing. These five disciplines are interrelated in the sense that computing is their object of study, but they are separate since each has its own research perspective and curricular focus. (Since 1991 the Association for Computing Machinery [ACM], the IEEE Computer Society [IEEE-CS], and the Association for Information Systems [AIS] have collaborated to develop and update the taxonomy of these five interrelated disciplines and the guidelines that educational institutions worldwide use for their undergraduate, graduate, and research programs.)\n\nThe major subfields of computer science include the traditional study of computer architecture, programming languages, and software development. However, they also include computational science (the use of algorithmic techniques for modeling scientific data), graphics and visualization, human-computer interaction, databases and information systems, networks, and the social and professional issues that are unique to the practice of computer science. As may be evident, some of these subfields overlap in their activities with other modern fields, such as bioinformatics and computational chemistry. These overlaps are the consequence of a tendency among computer scientists to recognize and act upon their field’s many interdisciplinary connections.",
+    "instructor": {
+      "instructor_name": "Sibyl BellWood",
+      "instructor_img": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
+      "students": 6389,
+      "published-date": "07-06-2022"
+    }
+  },
+  {
+    "id": 2,
+    "course_id": "35882689-094b-4f18-873e-3f5bca86ac0b",
+    "Course_title": "Computer Science 101: Master the Theory Behind Programming",
+    "img": "https://wallpapercave.com/wp/wp2700093.jpg",
+    "category": "Computer Science",
+    "course_duration": 6069,
+    "ratings": 4,
+    "price": 30,
+    "course_details": "Computer science emerged as an independent discipline in the early 1960s, although the electronic digital computer that is the object of its study was invented some two decades earlier. The roots of computer science lie primarily in the related fields of mathematics, electrical engineering, physics, and management information systems.\n\nMathematics is the source of two key concepts in the development of the computer—the idea that all information can be represented as sequences of zeros and ones and the abstract notion of a “stored program.” In the binary number system, numbers are represented by a sequence of the binary digits 0 and 1 in the same way that numbers in the familiar decimal system are represented using the digits 0 through 9. The relative ease with which two states (e.g., high and low voltage) can be realized in electrical and electronic devices led naturally to the binary digit, or bit, becoming the basic unit of data storage and transmission in a computer system.\n\nThe idea that instructions, as well as data, could be stored in a computer’s memory was critical to fundamental discoveries about the theoretical behaviour of algorithms. That is, questions such as, “What can/cannot be computed?” have been formally addressed using these abstract ideas. These discoveries were the origin of the computer science field known as algorithms and complexity. A key part of this field is the study and application of data structures that are appropriate to different applications. Data structures, along with the development of optimal algorithms for inserting, deleting, and locating data in such structures, are a major concern of computer scientists because they are so heavily used in computer software, most notably in compilers, operating systems, file systems, and search engines.",
+    "instructor": {
+      "instructor_name": "Hatty Heis",
+      "instructor_img": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
+      "students": 7938,
+      "published-date": "22-03-2022"
+    }
+  },
+  {
+    "id": 3,
+    "course_id": "02be4e10-ae5f-452a-9539-b65071d284ba",
+    "Course_title": "Developing a Multithreaded Kernel From Scratch!",
+    "img": "https://i.ytimg.com/vi/mXw9ruZaxzQ/maxresdefault.jpg",
+    "category": "Computer Science",
+    "course_duration": 7705,
+    "ratings": 3,
+    "price": 40,
+    "course_details": "",
+    "instructor": {
+      "instructor_name": "Diane Marie",
+      "instructor_img": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
+      "students": 6473,
+      "published-date": "13-07-2022"
+    }
+  },
+  {
+    "id": 4,
+    "course_id": "967f2767-e874-4eba-81db-a27663b3678e",
+    "Course_title": "JavaScript Algorithms and Data Structures Masterclass",
+    "img": "https://wallpapercave.com/wp/wp9165300.png",
+    "category": "Computer Science",
+    "course_duration": 7634,
+    "ratings": 4,
+    "price": 40,
+    "course_details": "",
+    "instructor": {
+      "instructor_name": "Jammie Conrath",
+      "instructor_img": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
+      "students": 7658,
+      "published-date": "17-03-2022"
+    }
+  },
+  {
+    "id": 5,
+    "course_id": "c00550f5-fcaa-488e-8680-801bead1048b",
+    "Course_title": "Computer Network : Internet Protocol, IPv4 and Subnetting 1.",
+    "img": "https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227__340.jpg",
+    "category": "Computer Science",
+    "course_duration": 7817,
+    "ratings": 3,
+    "price": 20,
+    "course_details": "",
+    "instructor": {
+      "instructor_name": "Morgan Wabe",
+      "instructor_img": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
+      "students": 6215,
+      "published-date": "16-02-2022"
+    }
+  },
+  {
+    "id": 6,
+    "course_id": "d8dde296-0319-4d23-8779-06d24a3fef47",
+    "Course_title": "Theory of Computation : Become a master of DFA",
+    "img": "https://i.ytimg.com/vi/58N2N7zJGrQ/maxresdefault.jpg",
+    "category": "Computer Science",
+    "course_duration": 7246,
+    "ratings": 3,
+    "price": 28,
+    "course_details": "",
+    "instructor": {
+      "instructor_name": "Taddeo Oxenden",
+      "instructor_img": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
+      "students": 7723,
+      "published-date": "20-08-2022"
+    }
+  }
+]

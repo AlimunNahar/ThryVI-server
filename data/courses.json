@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Computer Science MetaBootcamp"
+  },
+  {
+    "id": 2,
+    "title": "Computer Science 101"
+  },
+  {
+    "id": 3,
+    "title": "Operating System"
+  },
+  {
+    "id": 4,
+    "title": "JS Algorithms and Data Structures"
+  },
+  {
+    "id": 5,
+    "title": "Computer Network"
+  },
+  {
+    "id": 6,
+    "title": "Theory of Computation"
+  }
+]
