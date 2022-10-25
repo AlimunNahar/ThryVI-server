@@ -12,6 +12,14 @@ app.get("/", (req, res) => {
   res.send("Courses API Running!");
 });
 
+app.get("/course-categories", (req, res) => {
+  res.send(courses);
+});
+
+app.get("/details", (req, res) => {
+  res.send(courseDetails);
+});
+
 app.listen(port, () => {
   console.log(`ThryVI educational Server running on port: ${port}`);
 });
