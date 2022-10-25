@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "01",
     "course_id": "5e6be08e-3ae1-4010-8164-5dff071ab1f8",
     "Course_title": "Computer Science MetaBootcamp: Beginner to Intermediate 2022",
     "img": "https://i.ytimg.com/vi/SzJ46YA_RaA/maxresdefault.jpg",
@@ -17,7 +17,7 @@
     }
   },
   {
-    "id": 2,
+    "id": "02",
     "course_id": "35882689-094b-4f18-873e-3f5bca86ac0b",
     "Course_title": "Computer Science 101: Master the Theory Behind Programming",
     "img": "https://wallpapercave.com/wp/wp2700093.jpg",
@@ -34,7 +34,7 @@
     }
   },
   {
-    "id": 3,
+    "id": "03",
     "course_id": "02be4e10-ae5f-452a-9539-b65071d284ba",
     "Course_title": "Developing a Multithreaded Kernel From Scratch!",
     "img": "https://i.ytimg.com/vi/mXw9ruZaxzQ/maxresdefault.jpg",
@@ -51,7 +51,7 @@
     }
   },
   {
-    "id": 4,
+    "id": "04",
     "course_id": "967f2767-e874-4eba-81db-a27663b3678e",
     "Course_title": "JavaScript Algorithms and Data Structures Masterclass",
     "img": "https://wallpapercave.com/wp/wp9165300.png",
@@ -68,7 +68,7 @@
     }
   },
   {
-    "id": 5,
+    "id": "05",
     "course_id": "c00550f5-fcaa-488e-8680-801bead1048b",
     "Course_title": "Computer Network : Internet Protocol, IPv4 and Subnetting 1.",
     "img": "https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227__340.jpg",
@@ -85,7 +85,7 @@
     }
   },
   {
-    "id": 6,
+    "id": "06",
     "course_id": "d8dde296-0319-4d23-8779-06d24a3fef47",
     "Course_title": "Theory of Computation : Become a master of DFA",
     "img": "https://i.ytimg.com/vi/58N2N7zJGrQ/maxresdefault.jpg",
