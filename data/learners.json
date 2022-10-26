@@ -1,0 +1,26 @@
+[
+  {
+    "people_id": "01",
+    "_image": "https://images.ctfassets.net/go6kr6r0ykrq/PsoQ94ZyA6wDGnzSr4CjF/f94e1023dc2fd8a146b1bcccc72879e6/ManuelSousa.jpg",
+    "title": "Lessons from a Chef turned Deputy CTO",
+    "tag": "Manuel S., Deputy CTO @ PaxFamilia, Brussels, Belgium"
+  },
+  {
+    "people_id": "02",
+    "_image": "https://images.ctfassets.net/go6kr6r0ykrq/3ObHLUqjmfzpkrQLuMzF2n/ec9ad9ff4f6cea017a3057c8336eec3f/Rosita.jpg",
+    "title": "How one Developer learned to code with her disability",
+    "tag": "Rosita R., Front-End Developer, Brummen, Netherlands"
+  },
+  {
+    "people_id": "03",
+    "_image": "https://images.ctfassets.net/go6kr6r0ykrq/1HRZqDGLeXXKvgDDvCLMtb/d93f59bd74c075a79788a0c46335553c/GiacomoSorbi.jpeg",
+    "title": "Taking a different path: One Team Lead's story",
+    "tag": "Giacomo S., Team Lead, London, England"
+  },
+  {
+    "people_id": "04",
+    "_image": "https://images.ctfassets.net/go6kr6r0ykrq/7EnAeoXDH50HmJG1BVJHFs/d8a3620dd34a336c2e1464d677b9052b/AlisonVoghel.jpg",
+    "title": "See how this Architect switched to UX Design",
+    "tag": "Alison V., Senior UX Designer @ Acquia, Columbus, United States"
+  }
+]
