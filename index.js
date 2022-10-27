@@ -10,16 +10,11 @@ const courseDetails = require("./data/details.json");
 const learners = require("./data/learners.json");
 
 app.get("/", (req, res) => {
-  res.send("Courses API Running!");
-  res.send(courseDetails);
-});
-
-app.get("/course-name", (req, res) => {
-  res.send(courses);
-});
-
-app.get("/learners", (req, res) => {
   res.send(learners);
+});
+
+app.get("/courses", (req, res) => {
+  res.send(courses);
 });
 
 // 08/07 => id like this
@@ -28,7 +23,7 @@ app.get("/course/:id", (req, res) => {
   if (id === "07") {
     res.send(courseDetails);
   } else {
-    const course_details = courseDetails.filter((c) => c.id === id);
+    const course_details = courseDetails.filter((c) => c._id === id);
     res.send(course_details);
   }
 });

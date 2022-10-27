@@ -1,6 +1,6 @@
 [
   {
-    "id": "01",
+    "_id": "01",
     "course_id": "5e6be08e-3ae1-4010-8164-5dff071ab1f8",
     "Course_title": "Computer Science MetaBootcamp: Beginner to Intermediate 2022",
     "img": "https://i.ytimg.com/vi/SzJ46YA_RaA/maxresdefault.jpg",
@@ -17,7 +17,7 @@
     }
   },
   {
-    "id": "02",
+    "_id": "02",
     "course_id": "35882689-094b-4f18-873e-3f5bca86ac0b",
     "Course_title": "Computer Science 101: Master the Theory Behind Programming",
     "img": "https://wallpapercave.com/wp/wp2700093.jpg",
@@ -34,7 +34,7 @@
     }
   },
   {
-    "id": "03",
+    "_id": "03",
     "course_id": "02be4e10-ae5f-452a-9539-b65071d284ba",
     "Course_title": "Developing a Multithreaded Kernel From Scratch!",
     "img": "https://i.ytimg.com/vi/mXw9ruZaxzQ/maxresdefault.jpg",
@@ -42,7 +42,7 @@
     "course_duration": 7705,
     "ratings": 3,
     "price": 40,
-    "course_details": "",
+    "course_details": "A thread is a flow of execution through the process code, with its own program counter that keeps track of which instruction to execute next, system registers which hold its current working variables, and a stack which contains the execution history.\nA thread shares with its peer threads few information like code segment, data segment and open files. When one thread alters a code segment memory item, all other threads see that.\nA thread is also called a lightweight process. Threads provide a way to improve application performance through parallelism. Threads represent a software approach to improving performance of operating system by reducing the overhead thread is equivalent to a classical process.\nEach thread belongs to exactly one process and no thread can exist outside a process. Each thread represents a separate flow of control. Threads have been successfully used in implementing network servers and web server. They also provide a suitable foundation for parallel execution of applications on shared memory multiprocessors. The following figure shows the working of a single-threaded and a multithreaded process.\nIn this case, thread management is done by the Kernel. There is no thread management code in the application area. Kernel threads are supported directly by the operating system. Any application can be programmed to be multithreaded. All of the threads within an application are supported within a single process.",
     "instructor": {
       "instructor_name": "Diane Marie",
       "instructor_img": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
@@ -51,7 +51,7 @@
     }
   },
   {
-    "id": "04",
+    "_id": "04",
     "course_id": "967f2767-e874-4eba-81db-a27663b3678e",
     "Course_title": "JavaScript Algorithms and Data Structures Masterclass",
     "img": "https://wallpapercave.com/wp/wp9165300.png",
@@ -59,7 +59,7 @@
     "course_duration": 7634,
     "ratings": 4,
     "price": 40,
-    "course_details": "",
+    "course_details": "\nIn this case, thread management is done by the Kernel. There is no thread management code in the application area. Kernel threads are supported directly by the operating system. Any application can be programmed to be multithreaded. All of the threads within an application are supported within a single process.\nData structures are a method of storing and organizing data for efficient access and manipulation by all users and devices. Some common data structures that are used in JavaScript include stacks, queues, linked lists, sets, hash tables and trees, each of which makes it possible to call upon data existing in a specific state and use it in several ways.\nData structures allow algorithms to use data stored in the computer to execute a specific task laid out in a step-by-step manner by the algorithm. Algorithms can be written using any programming language, with JavaScript being no exception, allowing for client-side functionality such as sorting and searching.\nSeveral pre-existing data structures exist to solve coding problems with efficiency, reducing the number of programming hours needed to resolve an issue with a systematic method of storing and retrieving data. However, data structures exist to handle specific functions, meaning that the rest of the code that surrounds the data structure must be written properly in order for the data stored within to be accessible.\nThe fundamental knowledge attained through learning how to code in JavaScript, such as working with variables, arrays, objects, loops and functions, can then be written into algorithms, allowing programmers to manipulate strings, factorialize numbers and make advanced calculations.",
     "instructor": {
       "instructor_name": "Jammie Conrath",
       "instructor_img": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
@@ -68,7 +68,7 @@
     }
   },
   {
-    "id": "05",
+    "_id": "05",
     "course_id": "c00550f5-fcaa-488e-8680-801bead1048b",
     "Course_title": "Computer Network : Internet Protocol, IPv4 and Subnetting 1.",
     "img": "https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227__340.jpg",
@@ -76,7 +76,7 @@
     "course_duration": 7817,
     "ratings": 3,
     "price": 20,
-    "course_details": "",
+    "course_details": "A computer network is a set of computers sharing resources located on or provided by network nodes. The computers use common communication protocols over digital interconnections to communicate with each other. These interconnections are made up of telecommunication network technologies, based on physically wired, optical, and wireless radio-frequency methods that may be arranged in a variety of network topologies.\nThe nodes of a computer network can include personal computers, servers, networking hardware, or other specialised or general-purpose hosts. They are identified by network addresses, and may have hostnames. Hostnames serve as memorable labels for the nodes, rarely changed after initial assignment. Network addresses serve for locating and identifying the nodes by communication protocols such as the Internet Protocol.\nComputer networks may be classified by many criteria, including the transmission medium used to carry signals, bandwidth, communications protocols to organize network traffic, the network size, the topology, traffic control mechanism, and organizational intent.\nComputer networks support many applications and services, such as access to the World Wide Web, digital video, digital audio, shared use of application and storage servers, printers, and fax machines, and use of email and instant messaging applications.\nComputer networking may be considered a branch of computer science, computer engineering, and telecommunications, since it relies on the theoretical and practical application of the related disciplines. Computer networking was influenced by a wide array of technology developments and historical milestones.",
     "instructor": {
       "instructor_name": "Morgan Wabe",
       "instructor_img": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
@@ -85,7 +85,7 @@
     }
   },
   {
-    "id": "06",
+    "_id": "06",
     "course_id": "d8dde296-0319-4d23-8779-06d24a3fef47",
     "Course_title": "Theory of Computation : Become a master of DFA",
     "img": "https://i.ytimg.com/vi/58N2N7zJGrQ/maxresdefault.jpg",
@@ -93,7 +93,7 @@
     "course_duration": 7246,
     "ratings": 3,
     "price": 28,
-    "course_details": "",
+    "course_details": "In theoretical computer science and mathematics, the theory of computation is the branch that deals with what problems can be solved on a model of computation, using an algorithm, how efficiently they can be solved or to what degree (e.g., approximate solutions versus precise ones). The field is divided into three major branches: automata theory and formal languages, computability theory, and computational complexity theory, which are linked by the question: 'What are the fundamental capabilities and limitations of computers?'.\nIn order to perform a rigorous study of computation, computer scientists work with a mathematical abstraction of computers called a model of computation. There are several models in use, but the most commonly examined is the Turing machine.[2] Computer scientists study the Turing machine because it is simple to formulate, can be analyzed and used to prove results, and because it represents what many consider the most powerful possible 'reasonable' model of computation (see Church–Turing thesis).[3] It might seem that the potentially infinite memory capacity is an unrealizable attribute, but any decidable problem[4] solved by a Turing machine will always require only a finite amount of memory. So in principle, any problem that can be solved (decided) by a Turing machine can be solved by a computer that has a finite amount of memory.\nAutomata theory is the study of abstract machines (or more appropriately, abstract 'mathematical' machines or systems) and the computational problems that can be solved using these machines. These abstract machines are called automata. Automata comes from the Greek word (Αυτόματα) which means that something is doing something by itself. Automata theory is also closely related to formal language theory,[5] as the automata are often classified by the class of formal languages they are able to recognize. An automaton can be a finite representation of a formal language that may be an infinite set. Automata are used as theoretical models for computing machines, and are used for proofs about computability.",
     "instructor": {
       "instructor_name": "Taddeo Oxenden",
       "instructor_img": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
